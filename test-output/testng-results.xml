@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T23:38:05 IST" name="Default suite" finished-at="2023-03-08T23:38:13 IST" duration-ms="8305">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T23:38:05 IST" name="Default test" finished-at="2023-03-08T23:38:13 IST" duration-ms="8305">
+      <class name="TestLayer.RegisterPageTest">
+        <test-method signature="openABrowser()[pri:1, instance:TestLayer.RegisterPageTest@7133da86]" started-at="2023-03-08T23:38:05 IST" name="openABrowser" finished-at="2023-03-08T23:38:10 IST" duration-ms="4731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openABrowser -->
+        <test-method signature="validateContactInformation()[pri:2, instance:TestLayer.RegisterPageTest@7133da86]" started-at="2023-03-08T23:38:10 IST" name="validateContactInformation" finished-at="2023-03-08T23:38:10 IST" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactInformation -->
+        <test-method signature="validateMailingInformation()[pri:3, instance:TestLayer.RegisterPageTest@7133da86]" started-at="2023-03-08T23:38:10 IST" name="validateMailingInformation" finished-at="2023-03-08T23:38:11 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMailingInformation -->
+        <test-method signature="validateUserInformation()[pri:4, instance:TestLayer.RegisterPageTest@7133da86]" started-at="2023-03-08T23:38:11 IST" name="validateUserInformation" finished-at="2023-03-08T23:38:13 IST" duration-ms="2411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserInformation -->
+      </class> <!-- TestLayer.RegisterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
